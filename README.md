@@ -5,5 +5,5 @@ Learn Python
 
 make sure the below tools are installed in your machine
 
-pip install beautifulsoup4
-pip install requests
+1. pip install beautifulsoup4
+2. pip install requests
