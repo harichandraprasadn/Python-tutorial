@@ -1,9 +1,16 @@
 # Python-tutorial
 Learn Python
 
-- [youtube.py](https://github.com/harichandraprasadn/Python-tutorial/blob/master/Play%20from%20Youtube.py) - Takes a song name as input and fetches the YouTube url of the best matching song and plays it. 
+1. [youtube.py](https://github.com/harichandraprasadn/Python-tutorial/blob/master/Play%20from%20Youtube.py) - Takes a song name as input and fetches the YouTube url of the best matching song and plays it. 
 
-make sure the below tools are installed in your machine
+Install below tools/Packages using the terminal, if already not installed in your python
 
-1. pip install beautifulsoup4
-2. pip install requests
+- pip install beautifulsoup4
+- pip install requests
+
+2. [Read-Write Excel.py] (https://github.com/harichandraprasadn/Python-tutorial/blob/master/Read-Write%20Excel.py) - Reads or write Excel files.
+
+Install below packages/tools using the termianl
+
+- pip install xlwt
+- pip install workbook
