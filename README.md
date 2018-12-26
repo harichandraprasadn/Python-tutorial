@@ -1,7 +1,7 @@
 # Python-tutorial
 Learn Python
 
-#while running Play from Youtube.py https://github.com/harichandraprasadn/Python-tutorial/blob/master/Play%20from%20Youtube.py
-install the tools using below in the terminal
+- [youtube.py](https://github.com/harichandraprasadn/Python-tutorial/blob/master/Play%20from%20Youtube.py) - Takes a song name as input and fetches the YouTube url of the best matching song and plays it. 
+make sure the below tools are installed while running this
 pip install beautifulsoup4
 pip install requests
